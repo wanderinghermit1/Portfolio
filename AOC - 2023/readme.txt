@@ -1,0 +1,1 @@
+These are the solutions for the Advent of Code 2023 programming puzzles.  The website is https://adventofcode.com/2023
